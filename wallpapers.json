@@ -489,6 +489,76 @@
 			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/uros%20jovicic.png",
 			"dimensions": "1440 x 2560",
 			"copyright": "Unsplash"
+      },
+	   {
+         "name": "071",
+			"author": "Andre Benz",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/andre%20benz.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "072",
+			"author": "Andre Benz",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/andre%20benz1.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	    {
+         "name": "073",
+			"author": "Autumn Studio",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/autumn%20studio.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "074",
+			"author": "Casey Horner",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/casey%20horner.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "075",
+			"author": "Clint Mckoy",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/clint%20mckoy.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "076",
+			"author": "Desmond Simon",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/desmond%20simon.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "077",
+			"author": "Flo Dahm",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/flo%20dahm.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "078",
+			"author": "Lucie Capkova",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/lucie%20capkova.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "079",
+			"author": "Nathan Dumlao",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/nathan%20dumlao.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "080",
+			"author": "Patrick Hendry",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/patrick%20hendry.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       }
    ]
 }

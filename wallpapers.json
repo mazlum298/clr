@@ -559,6 +559,76 @@
 			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/patrick%20hendry.jpg",
 			"dimensions": "1440 x 2560",
 			"copyright": "Unsplash"
+      },
+	   {
+         "name": "081",
+			"author": "Alex Jodoin",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/alex%20jodoin.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "082",
+			"author": "Andy Grizzell",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/andy%20grizzell.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "083",
+			"author": "Anthony Intraversato",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/anthony%20intraversato.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "084",
+			"author": "Ethan Robertson",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/ethan%20robertson.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "085",
+			"author": "Frank Mckenna",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/frank%20mckenna.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "086",
+			"author": "Jason Wong",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/jason%20wong.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "087",
+			"author": "Jesus Benitez",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/jesus%20benitez.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "088",
+			"author": "John Towner",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/john%20towner.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "089",
+			"author": "Nik Macmillan",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/nik%20macmillan.JPG",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
+      },
+	   {
+         "name": "090",
+			"author": "Rucksack Magazine",
+			"url": "https://raw.githubusercontent.com/mazlum298/clr/clrU1/rucksack%20magazine.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Unsplash"
       }
    ]
 }
